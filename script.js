@@ -6,29 +6,29 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "QUAL desses filmes descreve sobre uma história de um livro de culinária?",
+        enunciado: "QUAL desses filmes descreve sobre uma história de um livro de culinária?"
         alternativas: [
             {
-                texto: "Pegando fogo",
+                texto: "Pegando fogo"
                 afirmacao: "Errado, A resposta certa é Julie e Júlia."
             },
             {
-                texto: "Sem reservas",
+                texto: "Sem reservas"
                 afirmacao: "Errado, A resposta certa é Julie e Júlia."
             },
             {
-                 texto: "Julie e Júlia",
+                 texto: "Julie e Júlia"
                 afirmacao: "Correto! Julie e Júlia foi baseado em um livro de culinária."
             },
             {
-                 texto: "Ratatoille",
+                 texto: "Ratatoille"
                 afirmacao: "Errado, A resposta certa é Julie e Júlia."
             }
             
         ]
     },
     {
-        enunciado: "Qual o principal tema abordado em todos esses filmes?",
+        enunciado: "Qual o principal tema abordado em todos esses filmes?"
         alternativas: [
             {
                 texto: "Romance",
@@ -52,19 +52,19 @@ const perguntas = [
         enunciado: "Ratatouille é um filme que se passa na:",
         alternativas: [
             {
-                texto: "ítalia ",
+                texto: "ítalia"
                 afirmacao: "Resposta errada. Ratatouille se passa em Paris na França!"
             },
             {
-                texto: "França",
+                texto: "França"
                 afirmacao: "Resposta certa! o ratinho remi tem a sua aventura em, Paris na França!"
             },
             {
-                texto: "Estados Unidos",
+                texto: "Estados Unidos"
                 afirmacao: "Resposta errada. Ratatouille se passa em Paris na França!" 
             },
             {
-                texto: "México",
+                texto: "México"
                 afirmacao: "Resposta errada. Ratatouille se passa em Paris na França!"
             }
         ]
