@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Sem reservas",
-                afirmacao: "Errado, A resposta certa é "Julie e Júlia.""
+                afirmacao: "Errado, A resposta certa é Julie e Júlia."
             },
             {
                  texto: "Julie e Júlia",
@@ -22,7 +22,7 @@ const perguntas = [
             },
             {
                  texto: "Ratatoille",
-                afirmacao: "Errado, A resposta certa é "Julie e Júlia."
+                afirmacao: "Errado, A resposta certa é Julie e Júlia."
             }
             
         ]
@@ -53,7 +53,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "ítalia ",
-                afirmacao: "Resposta errada ;(. Ratatouille se passa em Paris na França!"
+                afirmacao: "Resposta errada. Ratatouille se passa em Paris na França!"
             },
             {
                 texto: "França",
@@ -61,11 +61,11 @@ const perguntas = [
             },
             {
                 texto: "Estados Unidos",
-                afirmacao: "Resposta errada ;(. Ratatouille se passa em Paris na França!" 
+                afirmacao: "Resposta errada. Ratatouille se passa em Paris na França!" 
             },
             {
                 texto: "México",
-                afirmacao: "Resposta errada ;(. Ratatouille se passa em Paris na França!"
+                afirmacao: "Resposta errada. Ratatouille se passa em Paris na França!"
             }
         ]
     },
