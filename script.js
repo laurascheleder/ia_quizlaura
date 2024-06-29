@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "QUAL desses filmes descreve sobre uma história de um livro de culinária?"
+        enunciado: "QUAL desses filmes descreve sobre uma história de um livro de culinária?",
         alternativas: [
             {
                 texto: "Pegando fogo",
@@ -28,7 +28,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual o principal tema abordado em todos esses filmes?"
+        enunciado: "Qual o principal tema abordado em todos esses filmes?",
         alternativas: [
             {
                 texto: "Romance",
@@ -49,7 +49,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Ratatouille é um filme que se passa na:"
+        enunciado: "Ratatouille é um filme que se passa na:",
         alternativas: [
             {
                 texto: "ítalia",
