@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Pegando fogo",
-                afirmacao: "Errado, A resposta certa é "Julie e Júlia."
+                afirmacao: "Errado, A resposta certa é Julie e Júlia."
             },
             {
                 texto: "Sem reservas",
@@ -102,7 +102,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Obrigada por responder";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
