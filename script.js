@@ -31,25 +31,25 @@ const perguntas = [
         enunciado: "Qual o principal tema abordado em todos esses filmes?"
         alternativas: [
             {
-                texto: "Romance",
+                texto: "Romance"
                 afirmacao: "Errado, mesmo tendo um pouco de romance a resposta correta é gastronomia."
             },
             {
-                texto: "Gastronomia",
+                texto: "Gastronomia"
                 afirmacao: "Correto! A resposta certa é gastronomia."
             },
             {
-               texto: "Terror",
+               texto: "Terror"
                 afirmacao: "Errado,  a resposta correta é gastronomia."
             },
             {
-                texto: "Comédia",
+                texto: "Comédia"
                 afirmacao: "Errado, mesmo tendo um pouco de comédia a resposta correta é gastronomia."  
             }
         ]
     },
     {
-        enunciado: "Ratatouille é um filme que se passa na:",
+        enunciado: "Ratatouille é um filme que se passa na:"
         alternativas: [
             {
                 texto: "ítalia"
