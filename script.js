@@ -11,6 +11,7 @@ const perguntas = [
             {
                 texto: "Pegando fogo",
                 afirmacao: "Errado, A resposta certa é Julie e Júlia."
+                “Achou que fosse outro né.”
             },
             {
                 texto: "Sem reservas",
