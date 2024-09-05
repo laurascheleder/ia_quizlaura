@@ -12,7 +12,7 @@ const perguntas = [
                 texto: "Pegando fogo",
                 afirmacao: "Errado, A resposta certa é Julie e Júlia."
                 “Achou que fosse outro né.”
-                "Continue explorando o tema para compreender melhor os desafios globais.”
+                "Julia Child apesar de ser conhecida especialmente por seus trabalhos envolvendo gastronomia, como seu livro 'Mastering the Art of French Cooking', em que apresenta receitas e técnicas clássicas francesas”
             },
             {
                 texto: "Sem reservas",
