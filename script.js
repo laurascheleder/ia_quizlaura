@@ -12,22 +12,21 @@ const perguntas = [
                 texto: "Pegando fogo",
                 afirmacao: "Errado, A resposta certa é Julie e Júlia."
                 “Achou que fosse outro né.”
-                "Julia Child apesar de ser conhecida especialmente por seus trabalhos envolvendo gastronomia, como seu livro 'Mastering the Art of French Cooking', em que apresenta receitas e técnicas clássicas francesas”
+                "Superação, drama e muita habilidade na cozinha: essa é a história de Pegando Fogo.”
             },
             {
                 texto: "Sem reservas",
                 afirmacao: "Errado, A resposta certa é Julie e Júlia."
-                "Com um pouco mais de estudo, você pode se tornar um defensor mais eficaz do meio ambiente."
-            },
+            },  "Esta deliciosa comédia romântica sobre uma mulher que descobre que o mundo é bem maior do que uma cozinha."
             {
                  texto: "Julie e Júlia",
                 afirmacao: "Correto! Julie e Júlia foi baseado em um livro de culinária."
-                "Use esse conhecimento para liderar iniciativas e promover a conscientização em sua comunidade."
+                "Julia Child apesar de ser conhecida especialmente por seus trabalhos envolvendo gastronomia, como seu livro 'Mastering the Art of French Cooking', em que apresenta receitas e técnicas clássicas francesas."
             },
             {
                  texto: "Ratatoille",
                 afirmacao: "Errado, A resposta certa é Julie e Júlia."
-                "Reduzir essas emissões é essencial para mitigar os impactos futuros."
+                "O filme Ratatouille conta a história de Remy, um ratinho apaixonado por culinária."
             }
             
         ]
